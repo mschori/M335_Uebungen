@@ -1,0 +1,4 @@
+rootProject.name='WelcomeApp'
+include ':app'
+include ':savecontact'
+include ':metricsconverter'

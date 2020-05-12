@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Metrics Converter</string>
+    <string name="value_as_digit">Value as digit</string>
+    <string name="calculate">Calculate</string>
+    <string name="result">Result:</string>
+    <string name="choose_unit">Choose unit</string>
+    <string-array name="units">
+        <item>Millimeter</item>
+        <item>Centimeter</item>
+        <item>Meter</item>
+    </string-array>
+</resources>

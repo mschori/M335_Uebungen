@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WelcomeApp</string>
+    <string name="willkommen">Guten Tag. Schön, dass Sie mich gestartet haben.
+        Bitte verraten Sie mir Ihren Namen.</string>
+    <string name="hallo">Hallo %1$s. Ich freue mich, Sie kennenzulernen.</string>
+    <string name="weiter">Weiter</string>
+    <string name="fertig">Fertig</string>
+    <string name="vorname_nachname">Vorname Nachname</string>
+</resources>
